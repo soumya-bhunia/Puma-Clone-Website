@@ -23,7 +23,7 @@ Built purely for learning and portfolio purposes, this project focuses on recrea
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
 > ![Live Preview](https://github.com/soumya-bhunia/Puma-Clone-Website/blob/master/Puma_Clone_Preview.png?raw=true)
 
